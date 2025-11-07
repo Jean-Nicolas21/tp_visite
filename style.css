@@ -14,7 +14,7 @@
     border-style: solid;
     border-radius: 0.2rem;
     margin-bottom: 0.1rem;
-    margin-right: 216px;
+    margin-right: 205px;
 }
 
 .job{
@@ -58,6 +58,7 @@ body{
     height: 55mm;
     border-style: solid;
     border-radius: 0.2rem;
+    padding-bottom: 15px;
 }
 
 img {
